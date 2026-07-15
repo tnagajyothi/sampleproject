@@ -1,3 +1,1 @@
-sample program
-echo "this is unfinished work"
-echo "Wrong information"
+sample program 
